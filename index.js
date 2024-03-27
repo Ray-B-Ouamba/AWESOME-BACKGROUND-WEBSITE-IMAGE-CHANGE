@@ -1,10 +1,10 @@
 
 let image = document.getElementById('image');
 let images =['img1.PNG','img2.PNG','img3.PNG'];
-/*setInterval(function(){
+setInterval(function(){
   let random = Math.floor(Math.random() * 3);
   image.src = images[random];
-}, 1000);*/
+}, 1000);
 
 function BackGroundImageChange(){
   let random = Math.random()
