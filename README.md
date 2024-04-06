@@ -1,6 +1,6 @@
 # AWESOME BACKGROUND WEBSITE IMAGE CHANGE
 
-Alter the background of a webpage every two seconds. to make our webpage appear fantastic. 
+Alter the background of a webpage every two seconds. to make our webpage appear . 
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/AWESOME-BACKGROUND-WEBSITE-IMAGE-CHANGE/
 
