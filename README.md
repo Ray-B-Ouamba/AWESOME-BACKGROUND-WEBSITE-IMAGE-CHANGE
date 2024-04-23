@@ -6,7 +6,10 @@ Alter the background of a webpage every two seconds. to make our webpage appear 
 
 ## HOW IT'S MADE:
 
-**TECH USED:** HTML, CSS, JavaScript
+**TECH USED:** 
+* HTML
+* CSS
+* JavaScript
 
 ## Optimizations
 Rather than every seconds, we would like to alter each image change after ten seconds.
